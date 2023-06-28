@@ -7,6 +7,9 @@ This repository contains source code to provision an EKS cluster in AWS using Te
 * [Terraform](https://www.terraform.io/)
 * [kubectl](https://kubernetes.io/docs/tasks/tools/)
 
+## EKS Cluster Diagram for Setup Overview
+<img width="802" alt="EKS-Cluster-Diagram" src="https://github.com/nholuongut/amazon-eks-cluster/assets/58627821/36e6b64c-bfd6-422d-8039-2e0f8c7966de">
+
 ## Project Structure
 
 ```
